@@ -1,0 +1,113 @@
+Gender,Age,Platform,Subjects,Mode,Internet,"StudyHours
+","Courses
+","Rating
+","Doubts
+","Motivation
+","DoubtMethod
+","ObsDate
+"
+Female,19-24,YouTube,Programming/Coding,Auditory,Good,21-30 hours,4-5 courses,4(Satisfied),4-5 doubts,To improve academic performance,Participating in discussion forums,1/1/2025
+Male,19-24,YouTube,Programming/Coding,Auditory,Good,5-10 hours,1 course,3(Neutral),4-5 doubts,Because its more flexible/convenient,Participating in discussion forums,1/2/2025
+Male,19-24,Other,Business/Marketing,Reading,Poor,More than 30 hours,2-3 courses,5(Very Satisfied),6-10 doubts,To improve academic performance,Participating in discussion forums,1/3/2025
+Male,19-24,YouTube,Business/Marketing,,Average,Less than 5 hours,1 course,,1-2 doubt,To gain new skills,Asking friends or peers,1/4/2025
+Female,19-24,YouTube,Business/Marketing,Reading,Good,Less than 5 hours,1 course,1(Very Dissatisfied),1-2 doubt,To gain new skills,Other,1/5/2025
+Female,13-18,YouTube,Business/Marketing,Reading,Good,21-30 hours,6 or more courses,1(Very Dissatisfied),4-5 doubts,Because its more flexible/convenient,Watching additional videos/tutorials,1/6/2025
+Male,19-24,Other,Business/Marketing,Visual,Good,11-20 hours,1 course,5(Very Satisfied),1-2 doubt,To gain new skills,Participating in discussion forums,1/7/2025
+,,,,,,,,,,,,1/8/2025
+Female,19-24,YouTube,Business/Marketing,Visual,Good,11-20 hours,4-5 courses,4(Satisfied),4-5 doubts,Other,Participating in discussion forums,1/9/2025
+Female,19-24,Other,Other,Visual,Good,Less than 5 hours,1 course,2(Dissatisfied),2-3 doubts,Other,Asking instructors directly,1/10/2025
+,,,,,,,,,,,,1/11/2025
+,,,,,,,,,,,,1/12/2025
+Female,13-18,Other,Other,Kinesthetic,Good,More than 30 hours,2-3 courses,3(Neutral),2-3 doubts,To gain new skills,Asking instructors directly,1/13/2025
+Female,19-24,Other,Other,Visual,Good,Less than 5 hours,1 course,1(Very Dissatisfied),More than 10 doubts,To gain new skills,Other,1/14/2025
+Male,19-24,YouTube,Other,Reading,Good,Less than 5 hours,2-3 courses,3(Neutral),1-2 doubt,To gain new skills,Asking instructors directly,1/15/2025
+Female,19-24,Other,Other,Visual,Good,Less than 5 hours,1 course,3(Neutral),More than 10 doubts,Other,Asking instructors directly,1/16/2025
+Female,19-24,YouTube,Programming/Coding,Reading,Average,Less than 5 hours,1 course,4(Satisfied),1-2 doubt,To gain new skills,Asking instructors directly,1/17/2025
+Male,19-24,YouTube,Other,Reading,Good,5-10 hours,1 course,3(Neutral),2-3 doubts,For career advancement,Watching additional videos/tutorials,1/18/2025
+Female,19-24,YouTube,"STEM(Science,Technology,Engineering,Mathematics)",Reading,Good,Less than 5 hours,1 course,3(Neutral),4-5 doubts,For career advancement,Asking friends or peers,1/19/2025
+Female,19-24,YouTube,Business/Marketing,Auditory,Average,Less than 5 hours,2-3 courses,3(Neutral),2-3 doubts,To improve academic performance,Asking friends or peers,1/20/2025
+Female,19-24,YouTube,Programming/Coding,Visual,Good,5-10 hours,1 course,3(Neutral),1-2 doubt,To improve academic performance,Watching additional videos/tutorials,1/21/2025
+Female,19-24,YouTube,Other,Visual,Average,21-30 hours,1 course,3(Neutral),4-5 doubts,To gain new skills,Participating in discussion forums,1/22/2025
+Female,19-24,Other,Programming/Coding,Visual,Good,5-10 hours,1 course,3(Neutral),2-3 doubts,For career advancement,Watching additional videos/tutorials,1/23/2025
+Male,19-24,Other,Programming/Coding,Visual,Good,5-10 hours,4-5 courses,4(Satisfied),1-2 doubt,To gain new skills,Participating in discussion forums,1/24/2025
+Female,19-24,YouTube,"STEM(Science,Technology,Engineering,Mathematics)",Reading,Good,5-10 hours,1 course,4(Satisfied),1-2 doubt,To gain new skills,Asking friends or peers,1/25/2025
+,,,,,,,,,,,,1/26/2025
+Male,19-24,Coursera,Business/Marketing,Reading,Average,11-20 hours,1 course,1(Very Dissatisfied),1-2 doubt,To improve academic performance,Participating in discussion forums,1/27/2025
+Male,19-24,Coursera,"STEM(Science,Technology,Engineering,Mathematics)",Reading,Average,More than 30 hours,2-3 courses,3(Neutral),More than 10 doubts,To gain new skills,Asking friends or peers,1/28/2025
+Female,19-24,YouTube,Business/Marketing,Visual,Average,Less than 5 hours,1 course,4(Satisfied),2-3 doubts,To improve academic performance,Participating in discussion forums,1/29/2025
+Female,19-24,YouTube,Business/Marketing,Visual,Average,Less than 5 hours,1 course,4(Satisfied),1-2 doubt,To gain new skills,Asking instructors directly,1/30/2025
+Male,19-24,Udemy,Programming/Coding,Reading,Average,Less than 5 hours,6 or more courses,5(Very Satisfied),1-2 doubt,Because its more flexible/convenient,Participating in discussion forums,1/31/2025
+Male,19-24,Udemy,Other,Kinesthetic,Average,5-10 hours,4-5 courses,1(Very Dissatisfied),6-10 doubts,To improve academic performance,Participating in discussion forums,2/1/2025
+Male,19-24,YouTube,Programming/Coding,Reading,Average,5-10 hours,1 course,4(Satisfied),4-5 doubts,Because its more flexible/convenient,Watching additional videos/tutorials,2/2/2025
+Female,19-24,Udemy,Programming/Coding,Visual,Good,5-10 hours,2-3 courses,4(Satisfied),1-2 doubt,Other,Watching additional videos/tutorials,2/3/2025
+Female,13-18,YouTube,"STEM(Science,Technology,Engineering,Mathematics)",Reading,Good,5-10 hours,,4(Satisfied),2-3 doubts,To gain new skills,Participating in discussion forums,2/4/2025
+Male,19-24,YouTube,Programming/Coding,Reading,Average,Less than 5 hours,1 course,3(Neutral),1-2 doubt,To gain new skills,Other,2/5/2025
+Male,25-30,YouTube,Other,Visual,Good,11-20 hours,2-3 courses,3(Neutral),More than 10 doubts,To gain new skills,Watching additional videos/tutorials,2/6/2025
+Female,19-24,YouTube,Programming/Coding,Reading,Average,11-20 hours,2-3 courses,4(Satisfied),4-5 doubts,For career advancement,Asking instructors directly,2/7/2025
+Female,13-18,YouTube,"STEM(Science,Technology,Engineering,Mathematics)",Visual,Good,11-20 hours,4-5 courses,4(Satisfied),6-10 doubts,To improve academic performance,Participating in discussion forums,2/8/2025
+Female,19-24,Coursera,Business/Marketing,Auditory,Average,21-30 hours,4-5 courses,3(Neutral),4-5 doubts,Because its more flexible/convenient,Watching additional videos/tutorials,2/9/2025
+Female,19-24,YouTube,Programming/Coding,Reading,Good,5-10 hours,1 course,3(Neutral),2-3 doubts,To gain new skills,Participating in discussion forums,2/10/2025
+Female,19-24,Udemy,"Humanities(Literature,History,Philosophy)",Reading,Good,11-20 hours,2-3 courses,3(Neutral),4-5 doubts,For career advancement,Watching additional videos/tutorials,2/11/2025
+Female,19-24,YouTube,Business/Marketing,Reading,Good,Less than 5 hours,1 course,1(Very Dissatisfied),2-3 doubts,To gain new skills,Participating in discussion forums,2/12/2025
+Female,13-18,YouTube,Programming/Coding,Reading,Good,5-10 hours,1 course,3(Neutral),2-3 doubts,For career advancement,Asking instructors directly,2/13/2025
+Male,19-24,Other,Business/Marketing,Kinesthetic,Good,Less than 5 hours,2-3 courses,2(Dissatisfied),1-2 doubt,To gain new skills,Asking instructors directly,2/14/2025
+Male,19-24,YouTube,Programming/Coding,Reading,Good,Less than 5 hours,1 course,3(Neutral),4-5 doubts,For career advancement,Other,2/15/2025
+Female,13-18,Udemy,"STEM(Science,Technology,Engineering,Mathematics)",Reading,Good,Less than 5 hours,1 course,1(Very Dissatisfied),1-2 doubt,Because its more flexible/convenient,Asking instructors directly,2/16/2025
+Male,19-24,YouTube,Business/Marketing,Visual,Good,More than 30 hours,1 course,3(Neutral),1-2 doubt,To gain new skills,Asking instructors directly,2/17/2025
+Female,19-24,YouTube,"STEM(Science,Technology,Engineering,Mathematics)",Visual,Good,5-10 hours,1 course,4(Satisfied),1-2 doubt,To gain new skills,Watching additional videos/tutorials,2/18/2025
+Male,19-24,YouTube,Business/Marketing,Reading,Good,Less than 5 hours,1 course,2(Dissatisfied),2-3 doubts,To gain new skills,Participating in discussion forums,2/19/2025
+Male,25-30,YouTube,Business/Marketing,Visual,Good,11-20 hours,1 course,4(Satisfied),2-3 doubts,To gain new skills,Watching additional videos/tutorials,2/20/2025
+Male,13-18,YouTube,Business/Marketing,Visual,Average,Less than 5 hours,1 course,4(Satisfied),1-2 doubt,To gain new skills,Asking instructors directly,2/21/2025
+Female,19-24,YouTube,Programming/Coding,Visual,Average,Less than 5 hours,1 course,4(Satisfied),2-3 doubts,Because its more flexible/convenient,Participating in discussion forums,2/22/2025
+Female,19-24,YouTube,Other,Auditory,Good,Less than 5 hours,6 or more courses,1(Very Dissatisfied),More than 10 doubts,Other,Other,2/23/2025
+,,,,,,,,,,,,2/24/2025
+Male,19-24,YouTube,Business/Marketing,Reading,Good,Less than 5 hours,1 course,3(Neutral),2-3 doubts,To gain new skills,Asking friends or peers,2/25/2025
+Female,13-18,YouTube,"STEM(Science,Technology,Engineering,Mathematics)",Visual,Average,Less than 5 hours,2-3 courses,3(Neutral),6-10 doubts,Because its more flexible/convenient,Watching additional videos/tutorials,2/26/2025
+Male,19-24,Coursera,"STEM(Science,Technology,Engineering,Mathematics)",Visual,Good,11-20 hours,1 course,3(Neutral),1-2 doubt,To improve academic performance,Watching additional videos/tutorials,2/27/2025
+Male,19-24,YouTube,Programming/Coding,Reading,Average,5-10 hours,1 course,3(Neutral),2-3 doubts,To gain new skills,Asking instructors directly,2/28/2025
+Male,19-24,YouTube,Programming/Coding,Auditory,Good,Less than 5 hours,1 course,1(Very Dissatisfied),1-2 doubt,To improve academic performance,Watching additional videos/tutorials,3/1/2025
+Male,19-24,Other,Other,Reading,Good,Less than 5 hours,1 course,3(Neutral),1-2 doubt,To gain new skills,Asking friends or peers,3/2/2025
+Female,19-24,Other,"Humanities(Literature,History,Philosophy)",Reading,Good,More than 30 hours,2-3 courses,1(Very Dissatisfied),1-2 doubt,To gain new skills,Asking friends or peers,3/3/2025
+Female,25-30,YouTube,Other,Auditory,Good,Less than 5 hours,2-3 courses,3(Neutral),4-5 doubts,To gain new skills,Watching additional videos/tutorials,3/4/2025
+Male,19-24,Other,Other,Reading,Good,Less than 5 hours,1 course,3(Neutral),1-2 doubt,To gain new skills,Asking friends or peers,3/5/2025
+Female,13-18,YouTube,Business/Marketing,Reading,Average,5-10 hours,1 course,4(Satisfied),4-5 doubts,To gain new skills,Watching additional videos/tutorials,3/6/2025
+Male,19-24,Other,Other,Reading,Good,5-10 hours,2-3 courses,4(Satisfied),2-3 doubts,To gain new skills,Other,3/7/2025
+Male,19-24,YouTube,Other,Reading,Good,5-10 hours,2-3 courses,4(Satisfied),2-3 doubts,To gain new skills,Other,3/8/2025
+Male,19-24,Other,Programming/Coding,Visual,Good,Less than 5 hours,1 course,5(Very Satisfied),1-2 doubt,To gain new skills,Asking instructors directly,3/9/2025
+Female,19-24,YouTube,Programming/Coding,Visual,Good,5-10 hours,1 course,5(Very Satisfied),1-2 doubt,To gain new skills,Other,3/10/2025
+Female,25-30,YouTube,Other,Reading,Good,5-10 hours,2-3 courses,4(Satisfied),4-5 doubts,Because its more flexible/convenient,Watching additional videos/tutorials,3/11/2025
+Male,25-30,Udemy,Programming/Coding,Kinesthetic,Average,5-10 hours,4-5 courses,4(Satisfied),More than 10 doubts,To gain new skills,Asking friends or peers,3/12/2025
+Female,19-24,Other,Programming/Coding,Visual,Average,5-10 hours,1 course,3(Neutral),More than 10 doubts,Because its more flexible/convenient,Other,3/13/2025
+Female,13-18,YouTube,"STEM(Science,Technology,Engineering,Mathematics)",Visual,Good,5-10 hours,1 course,2(Dissatisfied),1-2 doubt,To gain new skills,Asking instructors directly,3/14/2025
+,,,,,,,,,,,,3/15/2025
+Male,19-24,YouTube,Business/Marketing,Visual,Average,5-10 hours,1 course,4(Satisfied),4-5 doubts,To gain new skills,Watching additional videos/tutorials,3/16/2025
+Female,19-24,YouTube,Programming/Coding,Visual,Good,5-10 hours,1 course,4(Satisfied),2-3 doubts,To gain new skills,Asking instructors directly,3/17/2025
+Male,19-24,Coursera,Business/Marketing,Visual,Average,5-10 hours,1 course,4(Satisfied),1-2 doubt,To gain new skills,Watching additional videos/tutorials,3/18/2025
+Female,19-24,YouTube,Business/Marketing,Auditory,Good,5-10 hours,2-3 courses,3(Neutral),4-5 doubts,To gain new skills,Asking friends or peers,3/19/2025
+Male,19-24,Udemy,Business/Marketing,Reading,Average,21-30 hours,4-5 courses,4(Satisfied),4-5 doubts,For career advancement,Watching additional videos/tutorials,3/20/2025
+Female,19-24,Udemy,Programming/Coding,Auditory,Average,11-20 hours,2-3 courses,5(Very Satisfied),2-3 doubts,Because its more flexible/convenient,Participating in discussion forums,3/21/2025
+Male,13-18,Coursera,Programming/Coding,Reading,Good,Less than 5 hours,2-3 courses,1(Very Dissatisfied),1-2 doubt,To gain new skills,Watching additional videos/tutorials,3/22/2025
+Female,25-30,YouTube,Other,Reading,Good,5-10 hours,2-3 courses,4(Satisfied),2-3 doubts,To gain new skills,Watching additional videos/tutorials,3/23/2025
+Male,19-24,YouTube,Programming/Coding,Visual,Good,Less than 5 hours,1 course,1(Very Dissatisfied),1-2 doubt,To gain new skills,Asking instructors directly,3/24/2025
+Female,19-24,YouTube,Programming/Coding,Reading,Good,Less than 5 hours,1 course,3(Neutral),1-2 doubt,To gain new skills,Asking friends or peers,3/25/2025
+Male,25-30,Udemy,Programming/Coding,Visual,Average,5-10 hours,2-3 courses,2(Dissatisfied),2-3 doubts,To improve academic performance,Asking instructors directly,3/26/2025
+Female,19-24,Other,"Humanities(Literature,History,Philosophy)",Reading,Good,11-20 hours,1 course,1(Very Dissatisfied),1-2 doubt,For career advancement,Asking instructors directly,3/27/2025
+Female,19-24,Other,"STEM(Science,Technology,Engineering,Mathematics)",Visual,Good,5-10 hours,4-5 courses,3(Neutral),1-2 doubt,To improve academic performance,Watching additional videos/tutorials,3/28/2025
+,19-24,YouTube,"Humanities(Literature,History,Philosophy)",Visual,Good,Less than 5 hours,1 course,5(Very Satisfied),4-5 doubts,For career advancement,Asking friends or peers,3/29/2025
+Female,13-18,Coursera,"Humanities(Literature,History,Philosophy)",Visual,Good,Less than 5 hours,1 course,3(Neutral),1-2 doubt,For career advancement,Watching additional videos/tutorials,3/30/2025
+Male,19-24,Udemy,"Humanities(Literature,History,Philosophy)",Visual,Good,Less than 5 hours,1 course,5(Very Satisfied),More than 10 doubts,Other,Other,3/31/2025
+Male,19-24,Other,Business/Marketing,Reading,Good,5-10 hours,1 course,1(Very Dissatisfied),6-10 doubts,For career advancement,Asking instructors directly,4/1/2025
+Male,19-24,YouTube,Programming/Coding,Kinesthetic,Average,21-30 hours,6 or more courses,5(Very Satisfied),1-2 doubt,To improve academic performance,Other,4/2/2025
+Male,19-24,YouTube,"Humanities(Literature,History,Philosophy)",Auditory,Good,11-20 hours,1 course,2(Dissatisfied),6-10 doubts,Other,Watching additional videos/tutorials,4/3/2025
+Male,13-18,Coursera,Other,Reading,Average,21-30 hours,2-3 courses,2(Dissatisfied),4-5 doubts,Because its more flexible/convenient,Watching additional videos/tutorials,4/4/2025
+Male,25-30,Coursera,Business/Marketing,Visual,Poor,5-10 hours,1 course,2(Dissatisfied),2-3 doubts,To gain new skills,Asking instructors directly,4/5/2025
+Male,19-24,Coursera,Other,Auditory,Poor,More than 30 hours,1 course,2(Dissatisfied),6-10 doubts,Because its more flexible/convenient,Participating in discussion forums,4/6/2025
+Male,13-18,Coursera,"STEM(Science,Technology,Engineering,Mathematics)",Auditory,Good,More than 30 hours,6 or more courses,3(Neutral),6-10 doubts,Because its more flexible/convenient,Participating in discussion forums,4/7/2025
+Male,19-24,YouTube,"STEM(Science,Technology,Engineering,Mathematics)",Auditory,Good,11-20 hours,2-3 courses,3(Neutral),2-3 doubts,To gain new skills,Watching additional videos/tutorials,4/8/2025
+Female,25-30,Udemy,"STEM(Science,Technology,Engineering,Mathematics)",Reading,Good,11-20 hours,4-5 courses,3(Neutral),4-5 doubts,To improve academic performance,Participating in discussion forums,4/9/2025
+Female,19-24,YouTube,Programming/Coding,Reading,Good,Less than 5 hours,1 course,4(Satisfied),1-2 doubt,To gain new skills,Asking instructors directly,4/10/2025
+Female,19-24,YouTube,Programming/Coding,Visual,Good,5-10 hours,1 course,3(Neutral),1-2 doubt,To gain new skills,Participating in discussion forums,4/11/2025
+Female,19-24,YouTube,Programming/Coding,Auditory,Good,Less than 5 hours,1 course,4(Satisfied),2-3 doubts,Because its more flexible/convenient,Participating in discussion forums,4/12/2025
+Male,19-24,YouTube,"STEM(Science,Technology,Engineering,Mathematics)",Reading,Average,21-30 hours,1 course,4(Satisfied),4-5 doubts,To gain new skills,Watching additional videos/tutorials,4/13/2025
+Female,19-24,YouTube,Programming/Coding,Visual,Good,Less than 5 hours,4-5 courses,3(Neutral),4-5 doubts,To improve academic performance,Participating in discussion forums,4/14/2025
+Female,13-18,YouTube,Programming/Coding,Reading,Good,11-20 hours,2-3 courses,4(Satisfied),4-5 doubts,To improve academic performance,Asking instructors directly,4/15/2025
